@@ -4,7 +4,7 @@ This repository contains every fact used by MyTake.org. When you [search](https:
 
 ## What is a Fact
 
-The platonic form of fact is Fact: a True Thing That Happened. A Fact never needs to be corrected. For example, when the preamble to the United States Constitution was written by our founding fathers, they chose its first three words to be
+The platonic form of fact is Fact: a True Thing That Happened. A Fact never needs to be corrected, because it is True. For example, when the preamble to the United States Constitution was written by our Founding Fathers, they chose its first three words to be
 
 > We the people
 
