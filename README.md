@@ -40,7 +40,7 @@ When you search MyTake.org for "gun", it doesn't pick out the gaffes, nor does i
 
 Don't let someone else pick what you see.
 
-## But getting rid of bias is hard
+## bias is harder
 
 Cutting letters from a cooking magazine into a ransom note? That's Bias. The ransomer isn't making an honest summary of grandma's meatloaf recipe which just turns out to demand money - it's been purposefully distorted to tell the message the ransomer wants, with no respect for grandma's intent.
 
